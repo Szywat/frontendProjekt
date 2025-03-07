@@ -1,0 +1,9 @@
+{
+    "orders": [
+        {
+            "username": "a",
+            "items": "[{\"id\":2,\"title\":\"Microsoft Xbox X/S Wireless Controller Robot White\",\"price\":57,\"image\":\"https://storage.googleapis.com/fir-auth-1c3bc.appspot.com/1692255251854-xbox.jpg\"}]",
+            "discount": 0
+        }
+    ]
+}

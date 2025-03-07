@@ -1,0 +1,15 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+
+body {
+  background-color: #1a1a2e;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin: auto;
+  color: #e6e6ff;
+  line-height: 1.6;
+  background-image: linear-gradient(to bottom right, #1a1a2e, #16213e);
+  min-height: 100vh;
+}
+
